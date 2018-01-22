@@ -18,6 +18,6 @@ This project contains a Lagom microservice which contains a simple pathCall to u
 
 `mvn lagom:runAll`
 
-## Contimuous Integration
+## Continuous Integration
 
 `Jenkinsfile` contains all the stages to build the given project.
